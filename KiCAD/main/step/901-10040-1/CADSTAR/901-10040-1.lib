@@ -1,0 +1,18 @@
+.901-10040-1 :1 ;RF Connector, SMA Straight PCB Jack, 50 Ohm
+"901100401"
+*STM J
+*NGS
+*PLB 1="1" 2="2" 3="3"
+*MXP 3
+*DFN 901-10040-1
+~!Manufacturer_Name (Amphenol)
+~!Manufacturer_Part_Number (901-10040-1)
+~!Mouser Part Number (523-901-10040-1)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=523-901-10040-1)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (-)
+~!Height (9.72mm)
+~!3D_Model (901-10040-1)
+"901-10040-1"
+1.1!U 2.1!U 3.1!U 

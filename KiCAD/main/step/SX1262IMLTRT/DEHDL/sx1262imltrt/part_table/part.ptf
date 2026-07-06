@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SX1262IMLTRT'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "SEMTECH", "SX1262IMLTRT" (!) = "", "QFN50P400X400X100-25N-D", "Quad Flat No-Lead", "947-SX1262IMLTRT", "https://www.mouser.co.uk/ProductDetail/Semtech/SX1262IMLTRT?qs=XFmntM7Yc9eYt6yxTPughQ%3D%3D", "SX1262IMLTRT", "https://www.arrow.com/en/products/sx1262imltrt/semtech.html?utm_currency=USD&region=nac", "RF Transceiver LoRa, sub-GHz RF Transceiver 22dBm PA", "http://www.mouser.com/datasheet/2/761/DS_SX1261-2_V1.1-1307803.pdf", "1 mm"
+END_PART
+
+END.

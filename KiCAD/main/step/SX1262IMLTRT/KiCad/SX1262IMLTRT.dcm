@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SX1262IMLTRT
+D RF Transceiver LoRa, sub-GHz RF Transceiver 22dBm PA
+K
+F http://www.mouser.com/datasheet/2/761/DS_SX1261-2_V1.1-1307803.pdf
+$ENDCMP
+#
+#End Doc Library

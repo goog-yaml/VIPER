@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TLV75533PDRVR
+D 500-mA low-IQ small-size low-dropout (LDO) regulator
+K
+F http://www.ti.com/lit/gpn/tlv755p
+$ENDCMP
+#
+#End Doc Library

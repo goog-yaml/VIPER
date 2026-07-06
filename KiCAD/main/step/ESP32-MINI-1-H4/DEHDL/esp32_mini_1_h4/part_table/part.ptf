@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ESP32_MINI_1_H4'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Espressif Systems", "ESP32-MINI-1-H4" (!) = "", "ESP32MINI1H4", "Other", "356-ESP32-MINI1PS3Q0", "https://www.mouser.co.uk/ProductDetail/Espressif-Systems/ESP32-MINI-1-H4?qs=DRkmTr78QAQYqPw9WQ7Pvw%3D%3D", "", "", "Multiprotocol Modules SMD module, ESP32-U4WDH with 4 MB flash die inside, PCB antenna, -40C - +105C", "https://www.espressif.com/sites/default/files/documentation/esp32-mini-1_datasheet_en.pdf", "2.55 mm"
+END_PART
+
+END.

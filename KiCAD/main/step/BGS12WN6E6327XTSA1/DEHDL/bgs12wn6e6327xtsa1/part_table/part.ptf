@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'BGS12WN6E6327XTSA1'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Infineon", "BGS12WN6E6327XTSA1" (!) = "", "BGS12WN6E6327XTSA1", "Other", "726-BGS12WN6E6327XTS", "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/BGS12WN6E6327XTSA1?qs=unwgFEO1A6uim3e4emYLzg%3D%3D", "BGS12WN6E6327XTSA1", "https://www.arrow.com/en/products/bgs12wn6e6327xtsa1/infineon-technologies-ag.html?utm_currency=USD&region=nac", "IC RF SWITCH SPDT 9GHZ TSNP6-10", "https://www.infineon.com/dgdl/Infineon-BGS12WN6-DataSheet-v01_00-EN.pdf?fileId=5546d4626b2d8e69016b89d2b3334727", "0.4 mm"
+END_PART
+
+END.

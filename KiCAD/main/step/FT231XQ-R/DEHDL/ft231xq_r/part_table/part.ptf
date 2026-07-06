@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'FT231XQ_R'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "FTDI Chip", "FT231XQ-R" (!) = "", "QFN50P400X400X80-21N", "Quad Flat No-Lead", "895-FT231XQ-R", "https://www.mouser.co.uk/ProductDetail/FTDI/FT231XQ-R?qs=Gp1Yz1mis3VkAf3iW%252BkumQ%3D%3D", "FT231XQ-R", "https://www.arrow.com/en/products/ft231xq-r/ftdi-chip?region=nac", "FTDI Chip FT231XQ-R, USB Transceiver", "http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT231X.pdf", "0.8 mm"
+END_PART
+
+END.

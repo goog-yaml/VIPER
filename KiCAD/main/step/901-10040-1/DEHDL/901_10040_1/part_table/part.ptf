@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '901_10040_1'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Amphenol", "901-10040-1" (!) = "", "901100401", "Other", "523-901-10040-1", "https://www.mouser.com/Search/Refine.aspx?Keyword=523-901-10040-1", "", "", "RF Connector, SMA Straight PCB Jack, 50 Ohm", "", "9.72 mm"
+END_PART
+
+END.

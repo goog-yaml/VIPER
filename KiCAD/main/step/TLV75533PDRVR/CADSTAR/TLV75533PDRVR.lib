@@ -1,0 +1,18 @@
+.TLV75533PDRVR :1 ;500-mA low-IQ small-size low-dropout (LDO) regulator
+SON65P200X200X80-7N
+*STM IC
+*NGS
+*PLB 1="OUT" 2="NC_1" 3="GND" 4="EN" 5="NC_2" 6="IN" 7="EPAD"
+*MXP 7
+*DFN TLV75533PDRVR
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TLV75533PDRVR)
+~!Mouser Part Number (595-TLV75533PDRVR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TLV75533PDRVR?qs=lc2O%252BfHJPVbmKlktYGVy6A%3D%3D)
+~!Arrow Part Number (TLV75533PDRVR)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/tlv75533pdrvr/texas-instruments?utm_currency=USD&region=nac)
+~!Link Datasheet (http://www.ti.com/lit/gpn/tlv755p)
+~!Height (0.8mm)
+~!3D_Model (TLV75533PDRVR)
+TLV75533PDRVR
+1.1!U 2.1!U 3.1!U 7.1!U 6.1!U 5.1!U 4.1!U 

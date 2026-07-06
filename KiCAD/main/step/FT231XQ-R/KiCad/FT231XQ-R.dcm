@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FT231XQ-R
+D FTDI Chip FT231XQ-R, USB Transceiver
+K
+F http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT231X.pdf
+$ENDCMP
+#
+#End Doc Library

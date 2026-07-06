@@ -1,0 +1,9 @@
+Manufacturer=FTDI Chip
+PartNumber=FT231XQ-R
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=21
+Version=1.1
+Released=2018-05-15 12:57:21
+Downloaded=2026-07-04 02:52:41
+3D=Y

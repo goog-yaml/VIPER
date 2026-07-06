@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TLV75533PDRVR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "TLV75533PDRVR" (!) = "", "SON65P200X200X80-7N", "Small Outline No-lead", "595-TLV75533PDRVR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TLV75533PDRVR?qs=lc2O%252BfHJPVbmKlktYGVy6A%3D%3D", "TLV75533PDRVR", "https://www.arrow.com/en/products/tlv75533pdrvr/texas-instruments?utm_currency=USD&region=nac", "500-mA low-IQ small-size low-dropout (LDO) regulator", "http://www.ti.com/lit/gpn/tlv755p", "0.8 mm"
+END_PART
+
+END.

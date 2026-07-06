@@ -1,0 +1,18 @@
+.FT231XQ-R :1 ;FTDI Chip FT231XQ-R, USB Transceiver
+QFN50P400X400X80-21N
+*STM IC
+*NGS
+*PLB 1="RXD" 2="RI#" 3="GND_1" 4="DSR#" 5="DCD#" 6="CTS#" 7="CBUS2" 8="USBDP" 9="USBDM" 10="3V3OUT" 11="RESET#" 12="VCC" 13="GND_2" 14="CBUS1" 15="CBUS0" 16="CBUS3" 17="TXD" 18="DTR#" 19="RTS#" 20="VCCIO" 21="EP"
+*MXP 21
+*DFN FT231XQ-R
+~!Manufacturer_Name (FTDI Chip)
+~!Manufacturer_Part_Number (FT231XQ-R)
+~!Mouser Part Number (895-FT231XQ-R)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/FTDI/FT231XQ-R?qs=Gp1Yz1mis3VkAf3iW%252BkumQ%3D%3D)
+~!Arrow Part Number (FT231XQ-R)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/ft231xq-r/ftdi-chip?region=nac)
+~!Link Datasheet (http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT231X.pdf)
+~!Height (0.8mm)
+~!3D_Model (FT231XQ-R)
+FT231XQ-R
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 15.1!U 14.1!U 13.1!U 12.1!U 11.1!U 21.1!U 20.1!U 19.1!U 18.1!U 17.1!U 16.1!U 

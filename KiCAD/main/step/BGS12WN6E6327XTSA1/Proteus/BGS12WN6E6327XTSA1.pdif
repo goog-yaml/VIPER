@@ -1,0 +1,120 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "BGS12WN6E6327XTSA1"
+   (description "IC RF SWITCH SPDT 9GHZ TSNP6-10")
+   (family "SWI")
+   (package "BGS12WN6E6327XTSA1")
+   (attribute "Datasheet Link" "https://www.infineon.com/dgdl/Infineon-BGS12WN6-DataSheet-v01_00-EN.pdf?fileId=5546d4626b2d8e69016b89d2b3334727")
+   (attribute "Geometry.Height" "0.4mm")
+   (attribute "Manufacturer_Name" "Infineon")
+   (attribute "Manufacturer_Part_Number" "BGS12WN6E6327XTSA1")
+   (attribute "Mouser Part Number" "726-BGS12WN6E6327XTS")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/BGS12WN6E6327XTSA1?qs=unwgFEO1A6uim3e4emYLzg%3D%3D")
+   (attribute "Arrow Part Number" "BGS12WN6E6327XTSA1")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/bgs12wn6e6327xtsa1/infineon-technologies-ag.html?utm_currency=USD&region=nac")
+   (gate
+    (symbol "BGS12WN6E6327XTSA1")
+    (pin "RF2" 1 PS)
+    (pin "GND" 2 PS)
+    (pin "RF1" 3 PS)
+    (pin "VDD" 4 PS)
+    (pin "RFIN" 5 PS)
+    (pin "CTRL" 6 PS)
+   )
+  )
+  (symbol "BGS12WN6E6327XTSA1"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 900 100) (pt 900 -300) (pt 200 -300) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "BGS12WN6E6327XTSA1"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -0.55 0.35)
+      (pt 0.55 0.35)
+      (pt 0.55 -0.35)
+      (pt -0.55 -0.35)
+      (pt -0.55 0.35))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.55 1.35)
+      (pt 1.55 1.35)
+      (pt 1.55 -1.35)
+      (pt -1.55 -1.35)
+      (pt -1.55 1.35))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1 -0.2)
+      (arc (pt -1.000 -0.200) (pt -1.100 -0.250) (pt -1.000 -0.150) (start 180.0) (sweep .0))
+      (pt -1.1 -0.2)
+      (arc (pt -1.100 -0.200) (pt -1.100 -0.250) (pt -1.000 -0.150) (start 180.0) (sweep 180.0))
+      (pt -1 -0.2))))
+   (leg 1 (pt -0.400 -0.200) (padstack 0))
+   (leg 2 (pt 0.000 -0.200) (padstack 0))
+   (leg 3 (pt 0.400 -0.200) (padstack 0))
+   (leg 4 (pt 0.400 0.200) (padstack 0))
+   (leg 5 (pt 0.000 0.200) (padstack 0))
+   (leg 6 (pt -0.400 0.200) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.250 0.250 0 0 90.000))
+   )
+   (model "BGS12WN6E6327XTSA1.stp"
+    (euler 90 0 90)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

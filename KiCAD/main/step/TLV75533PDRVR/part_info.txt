@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=TLV75533PDRVR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline No-lead
+PinCount=7
+Version=1.2
+Released=2018-09-21 06:13:14
+Downloaded=2026-07-04 02:53:02
+3D=Y

@@ -1,0 +1,19 @@
+.ESP32-MINI-1-H4 :1 ;Multiprotocol Modules SMD module, ESP32-U4WDH with 4 MB flash die inside, PCB antenna, -40C - +105C
+ESP32MINI1H4
+*STM IC
+*NGS
+*PLB 1="GND_1" 2="GND_2" 3="3V3" 4="I36" 5="I37" 6="I38" 7="I39" 8="EN" 9="I34" 10="I35" 11="IO32" 12="IO33" 13="IO25" 14="IO26" 15="IO27" 16="IO14" 17="IO12" 18="IO13" 19="IO15" 20="IO2" 21="IO0" 22="IO4" 23="NC_1" 24="NC_2" 25="IO9" 26="IO10" 27="GND_3" 28="NC_3" 29="IO5" 30="IO18" 31="IO23" 32="IO19" 33="IO22" 34="IO21" 35="RXD0" 36="TXD0" 37="NC_4" 38="GND_4" 39="GND_5" 40="GND_6" 41="GND_7" 42="GND_8" 43="GND_9" 44="GND_10" 45="GND_11" 46="GND_12" &
+47="GND_13" 48="GND_14" 49="GND_15" 50="GND_16" 51="GND_17" 52="GND_18" 53="GND_19" 54="GND_20" 55="GND_21" 56="GND_22" 57="GND_23" 58="GND_24" 59="GND_25" 60="GND_26" 61="GND_27" 62="GND_28" 63="GND_29"
+*MXP 63
+*DFN ESP32-MINI-1-H4
+~!Manufacturer_Name (Espressif Systems)
+~!Manufacturer_Part_Number (ESP32-MINI-1-H4)
+~!Mouser Part Number (356-ESP32-MINI1PS3Q0)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Espressif-Systems/ESP32-MINI-1-H4?qs=DRkmTr78QAQYqPw9WQ7Pvw%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.espressif.com/sites/default/files/documentation/esp32-mini-1_datasheet_en.pdf)
+~!Height (2.55mm)
+~!3D_Model (ESP32-MINI-1-H4)
+ESP32-MINI-1-H4
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 21.1!U 22.1!U 23.1!U 24.1!U 25.1!U 26.1!U 27.1!U 28.1!U 29.1!U 30.1!U 31.1!U 32.1!U 33.1!U 34.1!U 35.1!U 36.1!U 37.1!U 38.1!U 39.1!U 40.1!U 41.1!U 42.1!U 43.1!U 44.1!U 45.1!U 46.1!U 47.1!U 48.1!U 49.1!U 50.1!U 51.1!U 52.1!U 53.1!U 54.1!U 55.1!U 56.1!U 57.1!U 58.1!U 59.1!U 60.1!U 61.1!U 62.1!U 63.1!U 

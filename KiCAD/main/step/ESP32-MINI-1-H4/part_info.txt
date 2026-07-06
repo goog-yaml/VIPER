@@ -1,0 +1,9 @@
+Manufacturer=Espressif Systems
+PartNumber=ESP32-MINI-1-H4
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=63
+Version=4.7
+Released=2021-09-09 09:38:41
+Downloaded=2026-07-04 02:20:47
+3D=Y

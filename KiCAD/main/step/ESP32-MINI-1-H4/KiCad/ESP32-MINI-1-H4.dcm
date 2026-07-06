@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESP32-MINI-1-H4
+D Multiprotocol Modules SMD module, ESP32-U4WDH with 4 MB flash die inside, PCB antenna, -40C - +105C
+K
+F https://www.espressif.com/sites/default/files/documentation/esp32-mini-1_datasheet_en.pdf
+$ENDCMP
+#
+#End Doc Library
