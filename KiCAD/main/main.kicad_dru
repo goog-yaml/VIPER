@@ -2,4 +2,4 @@
 
 (rule "Ignore_Inside_U1"
   (constraint clearance (min 0mm))
-  (condition "A.Reference == 'U5'"))
+  (condition "A.Reference == '*'"))

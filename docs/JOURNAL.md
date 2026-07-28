@@ -25,3 +25,27 @@ So far the project seems to be going good, I think I'm going to split this repo 
 -Matias =)
 
 [Total time spent: 48 mins]
+
+# July 22nd: Brushing dust off this
+
+I'm running up to add an addon system for the device and some dedicated pins to do so. as getting this from another really cool project called pocketbyte, go check it out!
+
+I changed all of the LEDs to soft switches instead because i felt it looked nice.
+
+I'm currently going to source a ref for the pinout soon. But It's going good.
+
+- Matias
+
+# July 28th: Rev Dos
+
+I just finished rev2 for the board! What's new?
+
+I fixed the issue of all the passive components being 0402 metric then I decided to learn about hwo to pick the correct sizes for each component.
+
+The CH340X is back in the board to allow USB serial and I'm thinking about adding JTAG headers to the board for debugging.
+
+I went back to the pen form factor and also am considering adding a screen to the board.
+
+There will be not more motive changes for now and the project will stay like this.
+
+I'm going to continue to work on this and I think I'm going to get this produced
