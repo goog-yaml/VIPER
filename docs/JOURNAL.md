@@ -36,7 +36,7 @@ I'm currently going to source a ref for the pinout soon. But It's going good.
 
 - Matias
 
-# July 28th: Rev Dos
+# July 28th
 
 I just finished rev2 for the board! What's new?
 
