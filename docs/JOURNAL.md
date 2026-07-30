@@ -49,3 +49,16 @@ I went back to the pen form factor and also am considering adding a screen to th
 There will be not more motive changes for now and the project will stay like this.
 
 I'm going to continue to work on this and I think I'm going to get this produced
+
+# July 30th: Added a screen and mounting holes
+
+For revision 2.1. I introduced a versioning system of major and minor.
+ What's new in 2.1?
+
+Mounting holes for M2 screws on the left side of the board and a header connection for a screen. the schematics now include test points for serial, power, and JTAG soon to be onboard for revision 2.2.
+
+Some issues were included in revision 2 that would prevent stable operation of the radio caused by a faulty connection between the regulator for the SX1262 and the inductor managing it.
+
+That's all.
+
+-Matias

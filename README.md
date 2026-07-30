@@ -22,6 +22,9 @@ Future revisions intend to add a screen and interactives to the board to further
 * Added back the CH340X
 * Reverted to old "pen" form factor
 * Created a new "lopsided" board end 
+* Added a screen header
+* Fixed a regulator issue on the radio portion
+* bundled CAD files into production folders <=2.1
 ```
 
 ## Docs
@@ -29,18 +32,21 @@ Future revisions intend to add a screen and interactives to the board to further
 Docs will be coming soon!
 <br>
 
+## Versioning system
+
+The project follows a versioning system of major and minor. The first number in the version is the board platform. Whenever the board is fully redone a new major version will be released. Whenever the board has a small tweak to an existing platform version the second number behind the first will be bumped up by one.
+
+A board version of say, 2.1 would indicate platform version 2 with one tweak of the original version 2.0.
+
 #### Latest Journal as of July 28th
 
->I just finished rev2 for the board! What's new?
->
->I fixed the issue of all the passive components being 0402 metric then I decided to learn about >how to pick the correct sizes for each component.
->
->The CH340X is back in the board to allow USB serial and I'm thinking about adding JTAG headers to >the board for debugging.
->
->I went back to the pen form factor and also am considering adding a screen to the board.
->
->There will be not more motive changes for now and the project will stay like this.
->
->I'm going to continue to work on this and I think I'm going to get this produced
->
->-Matias
+For revision 2.1. I introduced a versioning system of major and minor.
+ What's new in 2.1?
+
+Mounting holes for M2 screws on the left side of the board and a header connection for a screen. the schematics now include test points for serial, power, and JTAG soon to be onboard for revision 2.2.
+
+Some issues were included in revision 2 that would prevent stable operation of the radio caused by a faulty connection between the regulator for the SX1262 and the inductor managing it.
+
+That's all.
+
+-Matias
